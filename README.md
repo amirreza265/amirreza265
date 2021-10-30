@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Amirreza Hosseini dehlaghi
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning ASP.Net Core 3.1
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning ASP.Net Core 5
+- 📫 amir64499@gmail.com
 
 <!---
 amirreza265/amirreza265 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
