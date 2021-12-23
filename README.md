@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirreza Hosseini dehlaghi
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning ASP.Net Core 5
+- 🌱 I’m currently learning ASP.Net Core
 - 📫 amir64499@gmail.com
 - <a href = "https://www.linkedin.com/in/amirreza-hosseini-dehlaghi-177a74226/">My linkedin profile</a>
 
